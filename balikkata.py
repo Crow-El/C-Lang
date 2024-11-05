@@ -14,4 +14,4 @@ def reverse(s):
     first,rest = s[0],s[1:]
     return reverse (rest)+first
 
-reverse('kasur')
+reverse('kasur dengan elang')
